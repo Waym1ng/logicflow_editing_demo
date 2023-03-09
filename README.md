@@ -10,12 +10,15 @@
 ### 截图
 
 - 整体
+
 ![image](https://user-images.githubusercontent.com/49272616/223987724-22fc9a55-5bb7-4796-974e-c712ab3cb8c5.png)
 
 - 查看json 可复制导出
+
 ![image](https://user-images.githubusercontent.com/49272616/223987856-9292dbca-99cb-40b2-adef-6964c2357649.png)
 
 - 支持导入
+
 ![image](https://user-images.githubusercontent.com/49272616/223987966-6ad67fac-066e-40ba-a5a6-e38c183dcd46.png)
 
 
