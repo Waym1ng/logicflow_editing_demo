@@ -1,4 +1,4 @@
-## demo编辑器
+## demo 拖拉拽流程
 ### 运行
 #### 安装
 > `npm install`
@@ -6,6 +6,8 @@
 > `npm run serve`
 #### 打包
 > `npm run build`
+
+### 截图
 
 ### 说明
 #### 节点定义
